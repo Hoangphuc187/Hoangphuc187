@@ -67,8 +67,8 @@
 
 ## 📊 Thống kê GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoangphuc187&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoangphuc187&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-hoangphuc187.vercel.app/api?username=Hoangphuc187&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats-hoangphuc187.vercel.app/api/top-langs/?username=Hoangphuc187&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
