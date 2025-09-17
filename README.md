@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hoangphuc187\&theme=tokyonight\&hide\_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hoangphuc187&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
